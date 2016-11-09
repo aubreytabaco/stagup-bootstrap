@@ -15,6 +15,7 @@ h1 {
 }
 
 /*---- Navbar Styling ----*/
+body { padding-top: 50px; }
 .navbar-brand { padding: 6px 15px;}
 
 /*---- Feature-Panel Styling ----*/
@@ -77,4 +78,10 @@ nav li {
 
 #investors .thumbnail p {
   min-height: 6em;
+}
+
+/*---- Footer Styling ----*/
+footer.page-footer.row {
+    background-color: #333333;
+    padding: 32px 0;
 }
